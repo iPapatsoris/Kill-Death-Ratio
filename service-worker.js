@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/Kill-Death-Ratio/precache-manifest.3c81f30ae572eb376233f3185d8a7fc3.js"
+  "/Kill-Death-Ratio/precache-manifest.fedd91d1f0f8df26f3054dc9f8df1479.js"
 );
 
 workbox.clientsClaim();
